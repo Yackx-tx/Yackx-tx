@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer | AI & Computer-Vision Enthusiast | Youth Empowerment Advocate
 
-Welcome to my GitHub profile! I’m the founder of **Yackx Dev Group**, a software development team dedicated to delivering quality software solutions and empowering Rwandan youth in ICT. I specialize in building modern, scalable applications — combining creativity, functionality, and innovation.
+Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development team dedicated to delivering quality software solutions and empowering Rwandan youth in ICT. I specialize in building modern, scalable applications — combining creativity, functionality, and innovation.
 
 ---
 
@@ -31,13 +31,13 @@ Python | TensorFlow | OpenCV | Flask | React Native | Flutter
 ## 📂 Featured Projects
 
 ### 🌱 **Seeds of the Future (Web Platform)**
-Developed a full-stack web platform hosted at [seedsfoundation.vercel.app](https://seedsfoundation.vercel.app/). It’s designed to promote sustainable innovation and empower youth by providing resources, mentorship, and digital engagement opportunities under the **Yackx Dev Group** vision.
+Developed a full-stack web platform hosted at [seedsfoundation.vercel.app](https://seedsfoundation.vercel.app/). It’s designed to promote sustainable innovation and empower youth by providing resources, mentorship, and digital engagement opportunities under the **YCSoft Rwanda** vision.
 
 ### 💡 **Here to Server (Youth Empowerment Project)**
-An AI-driven initiative under **Yackx Dev Group** designed to empower Rwandan youth through ICT — offering tools for sports analysis, mentorship, and skill development.
+An AI-driven initiative under **YCSoft Rwanda** designed to empower Rwandan youth through ICT — offering tools for sports analysis, mentorship, and skill development.
 
 ### 💰 **ImaliTracker App**
-Developing **ImaliTracker**, a next-generation shop management system under **Yackx Dev Group**. Built with the **MERN stack (MongoDB, Express.js, React, Node.js)**, it simplifies business operations by providing tools for expense tracking, sales analysis, inventory monitoring, and real-time financial insights for local shops.
+Developing **ImaliTracker**, a next-generation shop management system under **YCSoft Rwanda**. Built with the **MERN stack (MongoDB, Express.js, React, Node.js)**, it simplifies business operations by providing tools for expense tracking, sales analysis, inventory monitoring, and real-time financial insights for local shops.
 
 ---
 
