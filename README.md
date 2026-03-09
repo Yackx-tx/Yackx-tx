@@ -112,10 +112,6 @@ Streamlines attendance tracking with role-based access, real-time monitoring, an
 ---
 
 ## 📈 GitHub Stats
-
-![Yackx-tx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yackx-tx&theme=dracula)
 
 ---
