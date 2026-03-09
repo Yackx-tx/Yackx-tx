@@ -2,7 +2,7 @@
 
 ### 💻 Senior Full-Stack Developer | AI & Computer Vision Specialist | Youth Empowerment Advocate
 
-Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are not only robust but also user-focused and performance-optimized.
+Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
 
 ---
 
@@ -30,8 +30,16 @@ Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 💻 Tools & Design
-Figma | Adobe Illustrator | Adobe Photoshop | Git | GitHub | VS Code | Postman | Framer Motion | Recharts
+### 🛠️ Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF5733?style=for-the-badge&logoColor=white)
 
 ---
 
