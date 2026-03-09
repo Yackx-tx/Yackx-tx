@@ -1,34 +1,27 @@
 # 👋 Hello, I’m Yannick!
 
-### 💻 Full-Stack Developer | AI & Computer Vision Enthusiast | Youth Empowerment Advocate
+### 💻 Senior Full-Stack Developer | AI & Computer Vision Specialist | Youth Empowerment Advocate
 
-Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development team delivering modern, scalable software solutions while empowering Rwandan youth in ICT. I combine creativity, functionality, and innovation to build applications that make an impact.
-
----
-
-## 🚀 About Me
-
-- 🎓 Full-stack developer skilled in both front-end and back-end technologies.  
-- 🤖 Passionate about **AI, computer vision**, and building AI-driven solutions.  
-- 🌐 Experienced in creating responsive, high-performance web & mobile applications.  
-- 💡 Lifelong learner exploring advanced frameworks, cloud technologies, and AI integration.
+Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are not only robust but also user-focused and performance-optimized.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Front-End
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Back-End
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🤖 AI & Machine Learning
@@ -36,27 +29,83 @@ Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 💻 Tools & Design
+Figma | Adobe Illustrator | Adobe Photoshop | Git | GitHub | VS Code | Postman | Framer Motion | Recharts
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌱 Seeds of the Future
-A full-stack web platform for youth empowerment and sustainable innovation. Hosted at [seedsfoundation.vercel.app](https://seedsfoundation.vercel.app).  
+### 🌱 [Anova LMS](https://anova-lms.vercel.app)
+**Private – Available Upon Request**  
+A modern **digital learning management system** providing seamless access to educational resources, interactive reading, progress tracking, and subscription management.  
 
-### 💡 Here to Server
-An AI-driven initiative under **YCSoft Rwanda** to help youth improve ICT skills through mentorship, sports analysis, and project-based learning.
+**Tech Stack:** Next.js 16, TypeScript, TailwindCSS v4, Supabase, Framer Motion, Recharts  
+**Highlights:**  
+- Vast digital library with smart search and PDF reader  
+- Personalized user dashboard for tracking progress and subscriptions  
+- Admin panel with content, user, and analytics management  
+- Responsive and SEO-optimized landing page  
+- Mobile Money (MoMo) payment integration
 
-### 💰 ImaliTracker
-A MERN stack shop management system simplifying business operations with tools for expense tracking, sales analysis, and inventory monitoring in real-time.
+---
+
+### 🏫 [Smart School Timetable Generator](https://smart-ets.vercel.app)
+**Private – Available Upon Request**  
+Generates school timetables automatically using a backtracking scheduling engine while respecting constraints.  
+
+**Tech Stack:** React (Vite), Node.js, Express.js, PostgreSQL, TailwindCSS v3  
+**Highlights:**  
+- Chronogram import and resource allocation management  
+- Constraint-based timetable generation using CSP engine  
+- Avoids double-booking of teachers or classes  
+- Supports weekly module allocation and block scheduling
+
+---
+
+### 💰 [ImaliTrack – Inventory & Resource Management](https://imalitracker-rwanda.vercel.app)
+**Private – Available Upon Request**  
+Production-ready **inventory management system** for SMEs with offline/online support, tracking products, sales, expenses, and analytics.  
+
+**Tech Stack:** React 18, TypeScript, Vite, TailwindCSS, Supabase, Recharts  
+**Highlights:**  
+- Role-based authentication (Admin/Staff)  
+- Dashboard with real-time sales, stock, and expense analytics  
+- CRUD operations for products, sales, and expenses  
+- Real-time updates via Supabase Realtime  
+- Offline support and light/dark theme toggle
+
+---
+
+### 🎬 [MovieBazer App](https://work-internship.vercel.app)
+**Private – Available Upon Request**  
+Streaming platform for movies allowing users to browse and watch video content seamlessly.  
+
+**Tech Stack:** React, Vite, TailwindCSS, Backend API  
+**Highlights:**  
+- Video catalog browsing and filtering  
+- Smooth streaming experience  
+- Responsive UI for multiple devices
+
+---
+
+### 🏫 [SMART-SAMS – School Attendance Management System](https://smart-sams.rf.gd/)
+**Private – Available Upon Request**  
+Streamlines attendance tracking with role-based access, real-time monitoring, and automated reporting.  
+
+**Tech Stack:** PHP, MySQL, HTML5, CSS3/SCSS, JavaScript, Bootstrap 4  
+**Highlights:**  
+- Automated attendance tracking and reporting  
+- Role-based access control for admin, teachers, and parents  
+- Secure authentication and session management  
+- Parent-teacher communication portal
 
 ---
 
 ## 📈 GitHub Stats
 
-![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&theme=radical&hide_border=true)  
+![Yackx-tx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yackx-tx&theme=dracula)
@@ -74,9 +123,9 @@ A MERN stack shop management system simplifying business operations with tools f
 
 ## 💡 Fun Facts
 
-- 🎨 Skilled in **graphic design** (Adobe Illustrator & Photoshop) — creativity fuels my code.  
-- 🧗‍♂️ I enjoy solving complex problems and transforming ideas into real digital products.  
-- ☕ Coffee and code: my perfect workflow.
+- 🎨 Skilled in **graphic design** (Figma, Illustrator, Photoshop) — creativity fuels my code.  
+- 🧗‍♂️ I enjoy solving complex problems and turning ideas into production-ready software.  
+- ☕ Coffee and code: my ideal workflow.
 
 ---
 
