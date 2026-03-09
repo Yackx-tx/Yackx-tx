@@ -112,10 +112,11 @@ Streamlines attendance tracking with role-based access, real-time monitoring, an
 ---
 
 ## 📈 GitHub Stats
-![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YackxDev&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YackxDev&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yackx-tx&theme=dracula)
+![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YackxDev&show_icons=true&theme=radical&hide_border=true&count_private=true&token=ghp_11A6B6SNQ0gV3lUM3Zd3Qh_Ky27SnDseDu2IpOXP5s8DK9BaWuN7baALgS0m62BJs9E6KDOECLeL3nxjA6)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YackxDev&layout=compact&theme=radical&hide_border=true&count_private=true&token=ghp_11A6B6SNQ0gV3lUM3Zd3Qh_Ky27SnDseDu2IpOXP5s8DK9BaWuN7baALgS0m62BJs9E6KDOECLeL3nxjA6)
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YackxDev&theme=dracula)
 
 ---
 
