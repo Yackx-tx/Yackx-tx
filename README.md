@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Yannick!
 
-### 💻 Senior Full-Stack Developer | AI & Computer Vision Specialist | Youth Empowerment Advocate
+### 💻 Full-Stack Developer | AI & Computer Vision Specialist | Youth Empowerment Advocate
 
 Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
 
