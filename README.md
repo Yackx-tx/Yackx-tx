@@ -100,8 +100,7 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 
 ## 📈 GitHub Stats
 
-![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&theme=dracula&count_private=true)
-
+![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
 
 ## 🌱 Currently Expanding Skills
 
