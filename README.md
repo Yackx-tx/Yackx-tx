@@ -1,10 +1,14 @@
 # 👋 Hello, I’m Yannick!
 
-### Full-Stack Developer | Learner | Youth Empowerment Advocate
+### 💻 Full-Stack Developer | Learner | Youth Empowerment Advocate
 
 Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
 
+## 💼 Current Positions & Roles
 
+* 🚀 **Founder & Lead Engineer** at [YCSoft Rwanda](https://yackx.vercel.app) — Driving custom software development and youth technical empowerment initiatives.
+* 🎓 **Software Engineering Student** — Deepening skills in system design, backend architectures, and machine learning.
+* 🛠️ **Full-Stack Contractor** — Building production-ready web and mobile platforms for institutional and business clients.
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +45,6 @@ Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ## 📂 Featured Projects
 
 > *Note: Codebases for enterprise/client applications are private. Code access or walk-through demos are available upon request.*
@@ -56,7 +59,6 @@ A modern **digital learning management system** providing seamless access to edu
   - Comprehensive admin panel for content, user, and analytics management  
   - Mobile Money (MoMo) automated payment integration
 
-
 ### 🏫 [Smart School Timetable Generator](https://smart-ets.vercel.app)
 Generates optimized school timetables automatically using a backtracking scheduling engine while adhering to complex constraints.  
 
@@ -66,7 +68,6 @@ Generates optimized school timetables automatically using a backtracking schedul
   - Constraint Satisfaction Problem (CSP) scheduling engine  
   - Double-booking prevention for teachers and physical classrooms  
   - Weekly module allocation and block scheduling support
-
 
 ### 💰 [ImaliTrack – Inventory & Resource Management](https://imalitracker-rwanda.vercel.app)
 Production-ready **inventory management system** for SMEs featuring offline/online support for tracking products, sales, expenses, and real-time analytics.  
@@ -78,7 +79,6 @@ Production-ready **inventory management system** for SMEs featuring offline/onli
   - Live data synchronization powered by Supabase Realtime  
   - Offline sync capabilities with dark/light theme support
 
-
 ### 🎬 [MovieBazer App](https://work-internship.vercel.app)
 A full-featured movie streaming platform allowing users to search, filter, and stream video content seamlessly.  
 
@@ -87,7 +87,6 @@ A full-featured movie streaming platform allowing users to search, filter, and s
   - Dynamic video catalog browsing and filtering  
   - Smooth media streaming interface  
   - Fully responsive design across desktop and mobile devices
-
 
 ### 🏫 [SMART-SAMS – School Attendance Management System](https://smart-sams.rf.gd/)
 Streamlines school-wide attendance tracking with role-based permissions, real-time monitoring, and automated reporting.  
@@ -98,11 +97,11 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
   - Role-based access control for administrators, teachers, and parents  
   - Secure session management and parent-teacher portal
 
-
-## 📈 GitHub Stats
+## 📈 Commit & Contribution Stats
 
 ![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&theme=dracula&hide=html,css&cache_seconds=1800)
 
 ## 🌱 Currently Expanding Skills
 
@@ -110,13 +109,11 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-
 ## 💡 Fun Facts
 
 - 🎨 **Design-Driven:** Background in graphic design (Figma, Illustrator, Photoshop) directly informs my frontend architecture.  
 - 🧗‍♂️ **Problem Solver:** Passionate about converting real-world operational challenges into clean code.  
 - ☕ **Engineered on Coffee:** Powered by continuous learning and deep focus.
-
 
 ## 📫 Get in Touch
 
@@ -124,5 +121,4 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 - 💼 **LinkedIn:** [linkedin.com/in/yannick-gisubizo](https://linkedin.com/in/yannick-gisubizo)  
 - 🌍 **Portfolio:** [yackx.vercel.app](https://yackx.vercel.app)
 
-
-> “Building tech that empowers people.” — **Yannick Gisubizo**
+> “Building tech that empowers people.” **Yannick Gisubizo**
