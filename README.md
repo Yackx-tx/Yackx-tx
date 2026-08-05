@@ -103,7 +103,7 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 
 ![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&theme=dracula&hide=html,css&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&theme=dracula&hide=html,css)
 
 ## 🌱 Currently Expanding Skills
 
