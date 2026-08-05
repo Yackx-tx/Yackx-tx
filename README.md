@@ -1,5 +1,7 @@
 # 👋 Hello, I’m Yannick!
 
+[![Most Active GitHub User Rank](https://user-badge.committers.top/rwanda/Yackx-tx.svg)](https://user-badge.committers.top/rwanda/Yackx-tx)
+
 ### 💻 Full-Stack Developer | Learner | Youth Empowerment Advocate
 
 Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
