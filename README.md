@@ -5,6 +5,7 @@
 Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
 
 
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend & UI
@@ -102,6 +103,7 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 
 ![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
 
+
 ## 🌱 Currently Expanding Skills
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -123,4 +125,4 @@ Streamlines school-wide attendance tracking with role-based permissions, real-ti
 - 🌍 **Portfolio:** [yackx.vercel.app](https://yackx.vercel.app)
 
 
-> “Building tech that empowers people.” **Yannick Gisubizo**
+> “Building tech that empowers people.” — **Yannick Gisubizo**
