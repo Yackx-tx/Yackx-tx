@@ -7,8 +7,6 @@
 Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
 
 ## 💼 Current Positions & Roles
-
-* 🚀 **Founder & Lead Engineer** at [YCSoft Rwanda](https://yackx.vercel.app) — Driving custom software development and youth technical empowerment initiatives.
 * 🎓 **Software Engineering Student** — Deepening skills in system design, backend architectures, and machine learning.
 * 🛠️ **Full-Stack Contractor** — Building production-ready web and mobile platforms for institutional and business clients.
 
