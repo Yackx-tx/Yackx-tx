@@ -47,7 +47,6 @@ I also run **YCSoft Rwanda**, where I work on software solutions for organizatio
 └──────────────────────────────────────────────────────────┘
 ```
 
----
 
 ## `tech.stack`
 
