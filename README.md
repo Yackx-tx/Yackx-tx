@@ -198,13 +198,17 @@ My current learning path:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=github-compact&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Yannick's GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&hide_border=true&theme=transparent" alt="Yannick's most used languages" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&hide_border=true&theme=transparent" height="170" />
+[![GitHub](https://img.shields.io/badge/GitHub-Yackx--tx-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yackx-tx)
 
 </div>
 
