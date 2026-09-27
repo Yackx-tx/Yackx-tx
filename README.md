@@ -108,47 +108,6 @@ Key areas:
 
 → **[View the live application](https://anova-lms.vercel.app)**
 
-## `engineering.mindset`
-
-I don't want to only learn frameworks.
-
-I want to understand the engineering decisions behind the frameworks.
-
-```text
-                 ┌─────────────────┐
-                 │      IDEA       │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    ARCHITECT    │
-                 └────────┬────────┘
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-          Frontend     Backend     Database
-              │           │           │
-              └───────────┼───────────┘
-                          ▼
-                 ┌─────────────────┐
-                 │     SECURITY    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     TESTING     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    DEPLOYMENT   │
-                 └─────────────────┘
-```
-
-My current learning path:
-
-**Fundamentals → Backend → Architecture → Security → Testing → Production**
-
 ## `github.activity`
 
 <div align="center">
