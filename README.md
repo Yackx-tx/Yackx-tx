@@ -18,13 +18,12 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![Most Active GitHub User Rank](https://user-badge.committers.top/rwanda/Yackx-tx.svg)](https://user-badge.committers.top/rwanda/Yackx-tx)
 
 </div>
 
----
 
 ## `whoami`
 
@@ -70,7 +69,6 @@ I also run **YCSoft Rwanda**, where I work on software solutions for organizatio
 <img src="https://skillicons.dev/icons?i=flutter,git,github,postman,figma,vscode" />
 </p>
 
----
 
 ## `featured.work`
 
@@ -114,7 +112,6 @@ Key areas:
 
 → **[View the live application](https://anova-lms.vercel.app)**
 
----
 
 ## `engineering.mindset`
 
@@ -157,7 +154,6 @@ My current learning path:
 
 **Fundamentals → Backend → Architecture → Security → Testing → Production**
 
----
 
 ## `currently.learning`
 
@@ -198,7 +194,6 @@ My current learning path:
 
 > Learning new languages is useful. Understanding engineering fundamentals is more important.
 
----
 
 ## `github.activity`
 
@@ -214,7 +209,6 @@ My current learning path:
 
 </div>
 
----
 
 ## `beyond.code`
 
@@ -224,7 +218,6 @@ Through YCSoft Rwanda and my own projects, I'm interested in building software t
 
 I'm also interested in **youth empowerment and increasing access to technology in Rwanda**.
 
----
 
 <div align="center">
 
