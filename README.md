@@ -1,85 +1,257 @@
-# 👋 Hello, I’m Yannick!
+<div align="center">
+
+# 👋 Hi, I'm Yannick Gisubizo
+
+### `Software Engineer in Progress` · `Full-Stack Developer` · `Builder`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=539BF5&center=true&vCenter=true&width=700&lines=Building+web+applications+that+solve+real+problems;Learning+software+engineering+from+the+fundamentals+up;Designing+APIs%2C+databases%2C+and+user+experiences;Turning+ideas+into+working+software" alt="Typing animation" />
+
+<br/>
+
+<a href="https://yackx.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-539BF5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yannick-gisubizo">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gisubizoaimeyannick@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 [![Most Active GitHub User Rank](https://user-badge.committers.top/rwanda/Yackx-tx.svg)](https://user-badge.committers.top/rwanda/Yackx-tx)
 
-### 💻 Full-Stack Developer | Learner | Youth Empowerment Advocate
+</div>
 
-Welcome to my GitHub profile! I’m the founder of **YCSoft Rwanda**, a software development company delivering **scalable, modern applications** while empowering Rwandan youth in ICT. I specialize in building **production-ready web and mobile platforms**, leveraging **AI, computer vision, and cloud technologies** to create high-impact solutions. My approach combines **creativity, functionality, and innovation**, ensuring applications are robust, user-focused, and performance-optimized.
+---
 
-## 💼 Current Positions & Roles
-* 🎓 **Software Engineering Student** — Deepening skills in system design, backend architectures, and machine learning.
-* 🛠️ **Full-Stack Contractor** — Building production-ready web and mobile platforms for institutional and business clients.
+## `whoami`
 
-## 🛠️ Tech Stack
+I'm **Yannick Gisubizo**, a Software Engineering student and full-stack developer from Rwanda.
 
-### 🎨 Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF5733?style=for-the-badge&logoColor=white)
+I build web applications with a focus on understanding what happens beyond the interface — from **frontend architecture and API design to databases, authentication, authorization, security, and deployment**.
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+I also run **YCSoft Rwanda**, where I work on software solutions for organizations and businesses.
 
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+```text
+┌──────────────────────────────────────────────────────────┐
+│  CURRENT FOCUS                                           │
+│                                                          │
+│  → Software Engineering fundamentals                    │
+│  → Backend development & API design                      │
+│  → Database architecture                                 │
+│  → Authentication & authorization                        │
+│  → Application security                                  │
+│  → System design                                         │
+│  → Production-ready development                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-### 🛠️ Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-## 📂 Featured Projects
+## `tech.stack`
 
-> *Note: Codebases for enterprise/client applications are private. Code access or walk-through demos are available upon request.*
+### Frontend
 
-### 🌱 [Anova LMS](https://anova-lms.vercel.app)
-A modern **digital learning management system** providing seamless access to educational resources, interactive reading, progress tracking, and subscription management.  
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+</p>
 
-* **Tech Stack:** Next.js 16, TypeScript, TailwindCSS v4, Supabase, Framer Motion, Recharts  
-* **Key Highlights:**  
-  - Digital library with smart search and built-in PDF reader  
-  - Personalized user dashboard for tracking progress and subscriptions  
-  - Comprehensive admin panel for content, user, and analytics management  
-  - Mobile Money (MoMo) automated payment integration
+### Backend & Data
 
-## 📈 Commit & Contribution Stats
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,supabase" />
+</p>
 
-![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
+### Mobile & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,git,github,postman,figma,vscode" />
+</p>
 
-## 🌱 Currently Expanding Skills
+---
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+## `featured.work`
 
-## 💡 Fun Facts
+### 🌱 ANOVA LMS
 
-- 🎨 **Design-Driven:** Background in graphic design (Figma, Illustrator, Photoshop) directly informs my frontend architecture.  
-- 🧗‍♂️ **Problem Solver:** Passionate about converting real-world operational challenges into clean code.  
-- ☕ **Engineered on Coffee:** Powered by continuous learning and deep focus.
+**Digital learning platform**
 
-## 📫 Get in Touch
+A full-stack learning platform for managing educational content, subscriptions, users, and digital reading.
 
-- 📧 **Email:** [gisubizoaimeyannick@gmail.com](mailto:gisubizoaimeyannick@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yannick-gisubizo](https://linkedin.com/in/yannick-gisubizo)  
-- 🌍 **Portfolio:** [yackx.vercel.app](https://yackx.vercel.app)
+**Engineering:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Flutter`
 
-> “Building tech that empowers people.” **Yannick Gisubizo**
+```text
+Authentication
+     │
+     ├── User accounts
+     ├── Role-based access
+     └── Session management
+              │
+              ▼
+       Application Layer
+              │
+     ┌────────┼────────┐
+     ▼        ▼        ▼
+  Library  Payments  Dashboard
+     │        │        │
+     └────────┼────────┘
+              ▼
+        PostgreSQL
+```
+
+Key areas:
+
+* Authentication and authorization
+* Subscription management
+* Digital library
+* PDF reading
+* Progress tracking
+* Administrative dashboards
+* Payment workflows
+* Mobile application integration
+
+→ **[View the live application](https://anova-lms.vercel.app)**
+
+---
+
+## `engineering.mindset`
+
+I don't want to only learn frameworks.
+
+I want to understand the engineering decisions behind the frameworks.
+
+```text
+                 ┌─────────────────┐
+                 │      IDEA       │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    ARCHITECT    │
+                 └────────┬────────┘
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+          Frontend     Backend     Database
+              │           │           │
+              └───────────┼───────────┘
+                          ▼
+                 ┌─────────────────┐
+                 │     SECURITY    │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │     TESTING     │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    DEPLOYMENT   │
+                 └─────────────────┘
+```
+
+My current learning path:
+
+**Fundamentals → Backend → Architecture → Security → Testing → Production**
+
+---
+
+## `currently.learning`
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend
+
+* REST API design
+* Node.js
+* Express
+* Authentication
+* Authorization
+* API security
+
+</td>
+<td width="50%">
+
+### Engineering
+
+* System design
+* Database indexing
+* Query optimization
+* Testing
+* Performance
+* Deployment strategies
+
+</td>
+</tr>
+</table>
+
+### Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,rust" />
+</p>
+
+> Learning new languages is useful. Understanding engineering fundamentals is more important.
+
+---
+
+## `github.activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=github-compact&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+</div>
+
+---
+
+## `beyond.code`
+
+I care about the intersection between **technology, people, and practical problems**.
+
+Through YCSoft Rwanda and my own projects, I'm interested in building software that is useful beyond a demonstration — software that people can actually use.
+
+I'm also interested in **youth empowerment and increasing access to technology in Rwanda**.
+
+---
+
+<div align="center">
+
+### `Let's build something useful.`
+
+<br/>
+
+<a href="https://yackx.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-539BF5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yannick-gisubizo">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gisubizoaimeyannick@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yackx-tx&style=flat-square&color=539BF5" alt="Profile views" />
+
+<br/><br/>
+
+**Yannick Gisubizo**
+
+`Software Engineering · Full-Stack Development · Continuous Learning`
+
+</div>
