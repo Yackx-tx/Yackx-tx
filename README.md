@@ -37,7 +37,7 @@ I also run **YCSoft Rwanda**, where I work on software solutions for organizatio
 ┌──────────────────────────────────────────────────────────┐
 │  CURRENT FOCUS                                           │
 │                                                          │
-│  → Software Engineering fundamentals                    │
+│  → Software Engineering fundamentals                     │
 │  → Backend development & API design                      │
 │  → Database architecture                                 │
 │  → Authentication & authorization                        │
