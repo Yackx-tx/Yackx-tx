@@ -59,44 +59,6 @@ A modern **digital learning management system** providing seamless access to edu
   - Comprehensive admin panel for content, user, and analytics management  
   - Mobile Money (MoMo) automated payment integration
 
-### 🏫 [Smart School Timetable Generator](https://smart-ets.vercel.app)
-Generates optimized school timetables automatically using a backtracking scheduling engine while adhering to complex constraints.  
-
-* **Tech Stack:** React (Vite), Node.js, Express.js, PostgreSQL, TailwindCSS  
-* **Key Highlights:**  
-  - Chronogram import and resource allocation management  
-  - Constraint Satisfaction Problem (CSP) scheduling engine  
-  - Double-booking prevention for teachers and physical classrooms  
-  - Weekly module allocation and block scheduling support
-
-### 💰 [ImaliTrack – Inventory & Resource Management](https://imalitracker-rwanda.vercel.app)
-Production-ready **inventory management system** for SMEs featuring offline/online support for tracking products, sales, expenses, and real-time analytics.  
-
-* **Tech Stack:** React 18, TypeScript, Vite, TailwindCSS, Supabase, Recharts  
-* **Key Highlights:**  
-  - Role-based security (Admin/Staff access control)  
-  - Real-time sales, stock, and expense analytics  
-  - Live data synchronization powered by Supabase Realtime  
-  - Offline sync capabilities with dark/light theme support
-
-### 🎬 [MovieBazer App](https://work-internship.vercel.app)
-A full-featured movie streaming platform allowing users to search, filter, and stream video content seamlessly.  
-
-* **Tech Stack:** React, Vite, TailwindCSS, REST API  
-* **Key Highlights:**  
-  - Dynamic video catalog browsing and filtering  
-  - Smooth media streaming interface  
-  - Fully responsive design across desktop and mobile devices
-
-### 🏫 [SMART-SAMS – School Attendance Management System](https://smart-sams.rf.gd/)
-Streamlines school-wide attendance tracking with role-based permissions, real-time monitoring, and automated reporting.  
-
-* **Tech Stack:** PHP, MySQL, SCSS, JavaScript, Bootstrap 4  
-* **Key Highlights:**  
-  - Automated attendance tracking and reporting  
-  - Role-based access control for administrators, teachers, and parents  
-  - Secure session management and parent-teacher portal
-
 ## 📈 Commit & Contribution Stats
 
 ![Yannick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Yackx-tx&theme=dracula)
