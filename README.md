@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yannick Gisubizo
 
-### `Software Engineer in Progress` · `Full-Stack Developer` · `Builder`
+### `Software Engineer` · `Full-Stack Developer` · `Builder`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=539BF5&center=true&vCenter=true&width=700&lines=Building+web+applications+that+solve+real+problems;Learning+software+engineering+from+the+fundamentals+up;Designing+APIs%2C+databases%2C+and+user+experiences;Turning+ideas+into+working+software" alt="Typing animation" />
 
