@@ -24,7 +24,6 @@
 
 </div>
 
-
 ## `whoami`
 
 I'm **Yannick Gisubizo**, a Software Engineering student and full-stack developer from Rwanda.
@@ -47,7 +46,6 @@ I also run **YCSoft Rwanda**, where I work on software solutions for organizatio
 └──────────────────────────────────────────────────────────┘
 ```
 
-
 ## `tech.stack`
 
 ### Frontend
@@ -67,7 +65,6 @@ I also run **YCSoft Rwanda**, where I work on software solutions for organizatio
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,git,github,postman,figma,vscode" />
 </p>
-
 
 ## `featured.work`
 
@@ -111,7 +108,6 @@ Key areas:
 
 → **[View the live application](https://anova-lms.vercel.app)**
 
-
 ## `engineering.mindset`
 
 I don't want to only learn frameworks.
@@ -153,65 +149,13 @@ My current learning path:
 
 **Fundamentals → Backend → Architecture → Security → Testing → Production**
 
-
-## `currently.learning`
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend
-
-* REST API design
-* Node.js
-* Express
-* Authentication
-* Authorization
-* API security
-
-</td>
-<td width="50%">
-
-### Engineering
-
-* System design
-* Database indexing
-* Query optimization
-* Testing
-* Performance
-* Deployment strategies
-
-</td>
-</tr>
-</table>
-
-### Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,rust" />
-</p>
-
-> Learning new languages is useful. Understanding engineering fundamentals is more important.
-
-
 ## `github.activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yackx-tx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Yannick's GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yackx-tx&layout=compact&hide_border=true&theme=transparent" alt="Yannick's most used languages" />
+[![GitHub Profile](https://img.shields.io/badge/View_my_GitHub_activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yackx-tx)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Yackx--tx-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yackx-tx)
-
-</div>
-
 
 ## `beyond.code`
 
@@ -220,7 +164,6 @@ I care about the intersection between **technology, people, and practical proble
 Through YCSoft Rwanda and my own projects, I'm interested in building software that is useful beyond a demonstration — software that people can actually use.
 
 I'm also interested in **youth empowerment and increasing access to technology in Rwanda**.
-
 
 <div align="center">
 
@@ -239,12 +182,7 @@ I'm also interested in **youth empowerment and increasing access to technology i
 <a href="mailto:gisubizoaimeyannick@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Yackx-tx&style=flat-square&color=539BF5" alt="Profile views" />
-
-<br/><br/>
+<br/>
 
 **Yannick Gisubizo**
 
